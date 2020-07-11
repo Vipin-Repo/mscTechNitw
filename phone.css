@@ -184,7 +184,7 @@
     animation-fill-mode: reverse;
     font-size: 0.9rem;
   }
-  .fourthrow div:hover {
+  .fourthrow div:active {
     animation-name: fourbox;
     animation-duration: 0.24s;
     /* animation-iteration-count: infinite; */
